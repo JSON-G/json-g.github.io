@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.c4332732.chunk.css",
-    "main.js": "./static/js/main.0d1fa28a.chunk.js",
-    "main.js.map": "./static/js/main.0d1fa28a.chunk.js.map",
+    "main.css": "./static/css/main.9395aa5c.chunk.css",
+    "main.js": "./static/js/main.f6b6ba9c.chunk.js",
+    "main.js.map": "./static/js/main.f6b6ba9c.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8b807a4f.js",
     "runtime-main.js.map": "./static/js/runtime-main.8b807a4f.js.map",
     "static/js/2.a4365014.chunk.js": "./static/js/2.a4365014.chunk.js",
     "static/js/2.a4365014.chunk.js.map": "./static/js/2.a4365014.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.2e03d7f958866cce0b4a22ffabdd9624.js": "./precache-manifest.2e03d7f958866cce0b4a22ffabdd9624.js",
+    "precache-manifest.34805db68802d06857aaf5b5077f52f5.js": "./precache-manifest.34805db68802d06857aaf5b5077f52f5.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.c4332732.chunk.css.map": "./static/css/main.c4332732.chunk.css.map",
+    "static/css/main.9395aa5c.chunk.css.map": "./static/css/main.9395aa5c.chunk.css.map",
     "static/js/2.a4365014.chunk.js.LICENSE.txt": "./static/js/2.a4365014.chunk.js.LICENSE.txt",
     "static/media/android-esports2-550h.png": "./static/media/android-esports2-550h.2385d8fb.png",
     "static/media/android-getenglish-550h.png": "./static/media/android-getenglish-550h.a5855a68.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.8b807a4f.js",
     "static/js/2.a4365014.chunk.js",
-    "static/css/main.c4332732.chunk.css",
-    "static/js/main.0d1fa28a.chunk.js"
+    "static/css/main.9395aa5c.chunk.css",
+    "static/js/main.f6b6ba9c.chunk.js"
   ]
 }
