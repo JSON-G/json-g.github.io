@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba9c2bf81b9ce591cb7817ddd6340ec6",
+    "revision": "910e92acb88814f26fe15d50a762b4a2",
     "url": "./index.html"
   },
   {
-    "revision": "6263ab81cf30aa661cf5",
-    "url": "./static/css/main.f098cec5.chunk.css"
+    "revision": "e5048dd8afe285034964",
+    "url": "./static/css/main.1cab0dfa.chunk.css"
   },
   {
-    "revision": "c71c6905ee7170bd91df",
-    "url": "./static/js/2.a4365014.chunk.js"
+    "revision": "f6a2429571bc43981cfd",
+    "url": "./static/js/2.a65ce6ee.chunk.js"
   },
   {
     "revision": "60037e8887f425d039bd63775efa9319",
-    "url": "./static/js/2.a4365014.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.a65ce6ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6263ab81cf30aa661cf5",
-    "url": "./static/js/main.4c5f0a88.chunk.js"
+    "revision": "e5048dd8afe285034964",
+    "url": "./static/js/main.d6f7c377.chunk.js"
   },
   {
     "revision": "f9e6a427da4c57a86023",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/android-tzilla-550h.78630739.png"
   },
   {
+    "revision": "92575dff53d64b1f537ccdb8731679a2",
+    "url": "./static/media/certiprof-sfpc-cert.92575dff.png"
+  },
+  {
     "revision": "cb1ac8fa996b73ab1aa98d727238cf78",
     "url": "./static/media/coins-pro-550h.cb1ac8fa.png"
   },
@@ -54,6 +58,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fcb9645dc46e184db3930e8e037d4e7d",
     "url": "./static/media/getenglish.fcb9645d.jpg"
+  },
+  {
+    "revision": "130ab9e0672b0398cb7c8290edbbf675",
+    "url": "./static/media/hacker-js-basic-cert.130ab9e0.jpg"
+  },
+  {
+    "revision": "27a7867aadadb95fc8d7cdab28d1e2fe",
+    "url": "./static/media/hacker-problemsolving-basic-cert.27a7867a.jpg"
+  },
+  {
+    "revision": "de11c5ea3d56ba27eada883328e49318",
+    "url": "./static/media/hacker-react-basic-cert.de11c5ea.jpg"
+  },
+  {
+    "revision": "bba9b0ec9ef2f77e6ddbf1d4b1c23d21",
+    "url": "./static/media/hacker-rest-intermediate-cert.bba9b0ec.jpg"
   },
   {
     "revision": "bf0a19550d4edff00635a867094602db",
