@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.c5986f4c.chunk.css",
-    "main.js": "./static/js/main.8c3ff21a.chunk.js",
-    "main.js.map": "./static/js/main.8c3ff21a.chunk.js.map",
+    "main.js": "./static/js/main.6760406f.chunk.js",
+    "main.js.map": "./static/js/main.6760406f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.8b807a4f.js",
     "runtime-main.js.map": "./static/js/runtime-main.8b807a4f.js.map",
-    "static/js/2.5d8cec04.chunk.js": "./static/js/2.5d8cec04.chunk.js",
-    "static/js/2.5d8cec04.chunk.js.map": "./static/js/2.5d8cec04.chunk.js.map",
+    "static/js/2.ec186b23.chunk.js": "./static/js/2.ec186b23.chunk.js",
+    "static/js/2.ec186b23.chunk.js.map": "./static/js/2.ec186b23.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.ab3e989012e3868652a6cbdb6bf132b2.js": "./precache-manifest.ab3e989012e3868652a6cbdb6bf132b2.js",
+    "precache-manifest.b6702c3165abd5be11fc02436674d182.js": "./precache-manifest.b6702c3165abd5be11fc02436674d182.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.c5986f4c.chunk.css.map": "./static/css/main.c5986f4c.chunk.css.map",
-    "static/js/2.5d8cec04.chunk.js.LICENSE.txt": "./static/js/2.5d8cec04.chunk.js.LICENSE.txt",
+    "static/js/2.ec186b23.chunk.js.LICENSE.txt": "./static/js/2.ec186b23.chunk.js.LICENSE.txt",
     "static/media/android-esports2-550h.png": "./static/media/android-esports2-550h.2385d8fb.png",
     "static/media/android-getenglish-550h.png": "./static/media/android-getenglish-550h.a5855a68.png",
     "static/media/android-jws-550h.png": "./static/media/android-jws-550h.8720ebcb.png",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8b807a4f.js",
-    "static/js/2.5d8cec04.chunk.js",
+    "static/js/2.ec186b23.chunk.js",
     "static/css/main.c5986f4c.chunk.css",
-    "static/js/main.8c3ff21a.chunk.js"
+    "static/js/main.6760406f.chunk.js"
   ]
 }
